@@ -26,7 +26,7 @@ This is a fully responsive **car dealership website** built from scratch using *
 ---
 ## 📌 Project Status
 
-✅ Completed – MVP features implemented  
+✅ Completed – MVP features implemented 
 🔧 Future improvements:
 - Add backend for storing inquiries
 - Implement dynamic content with JSON or API
